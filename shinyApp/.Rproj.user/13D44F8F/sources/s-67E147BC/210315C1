@@ -1,0 +1,27 @@
+{
+    "id": "210315C1",
+    "path": "C:/Users/bryan/Desktop/Cienciometria/Shiny/shinyApp/ShinyApp/app.R",
+    "project_path": "ShinyApp/app.R",
+    "type": "r_source",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1631040146649.0,
+    "source_on_save": false,
+    "relative_order": 1,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "27,5",
+        "scrollLine": "9",
+        "docOutlineVisible": "0"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1631045692,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1631045692996,
+    "read_only": false,
+    "read_only_alternatives": []
+}

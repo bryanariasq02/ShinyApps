@@ -1,0 +1,6 @@
+install.packages('rsconnect')
+rsconnect::setAccountInfo(name='bryan-arias',
+                          token='D58E76A84DDE1C74682B49361B64C723',
+                          secret='D84FvdyjBLg00trgNjCcG2N7tHPiiSA+cuuOBez0')
+library(rsconnect)
+rsconnect::deployApp('C:\\Users\\bryan\\Desktop\\Cienciometria\\Shiny\\shinyApp\\ShinyApp')
